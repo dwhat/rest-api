@@ -1,0 +1,19 @@
+# Read about fixtures at http://api.rubyonrails.org/classes/ActiveRecord/FixtureSet.html
+
+one:
+  user_id: 
+  user_id: 
+  dateTime: 2015-04-23 15:02:48
+  msg_head: MyString
+  msg_body: MyText
+  checksum: MyText
+  read: false
+
+two:
+  user_id: 
+  user_id: 
+  dateTime: 2015-04-23 15:02:48
+  msg_head: MyString
+  msg_body: MyText
+  checksum: MyText
+  read: false
